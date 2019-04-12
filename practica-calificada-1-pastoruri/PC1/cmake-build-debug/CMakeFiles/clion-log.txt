@@ -1,0 +1,5 @@
+/snap/clion/67/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/utec/Escritorio/PC1/practica-calificada-1-pastoruri/PC1
+-- Configuring done
+Warning: Source file "/home/utec/Escritorio/PC1/practica-calificada-1-pastoruri/PC1/cmake-build-debug/LinkedList.cpp" is listed multiple times for target "PC1".
+-- Generating done
+-- Build files have been written to: /home/utec/Escritorio/PC1/practica-calificada-1-pastoruri/PC1/cmake-build-debug

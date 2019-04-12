@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/utec/Escritorio/PC1/practica-calificada-1-pastoruri/PC1/LinkedList.h
+ostream
+-
+
+/home/utec/Escritorio/PC1/practica-calificada-1-pastoruri/PC1/TwoLinkedList.h
+iostream
+-
+LinkedList.h
+/home/utec/Escritorio/PC1/practica-calificada-1-pastoruri/PC1/LinkedList.h
+
+/home/utec/Escritorio/PC1/practica-calificada-1-pastoruri/PC1/main.cpp
+iostream
+-
+string
+-
+fstream
+-
+vector
+-
+cassert
+-
+LinkedList.h
+/home/utec/Escritorio/PC1/practica-calificada-1-pastoruri/PC1/LinkedList.h
+TwoLinkedList.h
+/home/utec/Escritorio/PC1/practica-calificada-1-pastoruri/PC1/TwoLinkedList.h
+

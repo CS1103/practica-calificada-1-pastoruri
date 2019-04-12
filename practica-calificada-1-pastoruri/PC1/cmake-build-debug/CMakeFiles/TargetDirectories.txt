@@ -1,0 +1,3 @@
+/home/utec/Escritorio/PC1/practica-calificada-1-pastoruri/PC1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/utec/Escritorio/PC1/practica-calificada-1-pastoruri/PC1/cmake-build-debug/CMakeFiles/PC1.dir
+/home/utec/Escritorio/PC1/practica-calificada-1-pastoruri/PC1/cmake-build-debug/CMakeFiles/edit_cache.dir
